@@ -26,7 +26,7 @@ MongoDB, a NoSQL document database, serves as the database for storing and retri
 
 Docker is utilized to containerize the frontend and backend components together, enabling seamless deployment and management of the application's environment. Docker ensures consistency, portability, and scalability, simplifying the deployment process across various platforms and environments.
 
-Key Features:
+### Key Features:
 
 1. Responsive Design: The social media app is designed to be responsive, ensuring an optimal user experience across various devices, including desktops, tablets, and mobile devices.
 2. User Profiles: Users can create personalized profiles, including profile pictures, biographies, and other relevant information.
