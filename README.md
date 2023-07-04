@@ -65,7 +65,7 @@ To run this project, you will need:
 1. Clone the repo
 
    ```markdown
-   git clone
+   git clone https://github.com/bhaven123/fullstack-socialmedia-mern-app
    ```
 
 2. Install NPM packages
@@ -107,7 +107,7 @@ To run this project, you will need:
 ## Contact
 
 - Bhaven Naik - [naikbhaven11@gmail.com](mailto:naikbhaven11@gmail.com) | Portfolio - [https://bhaven-naik.com/](https://bhaven-naik.com/)
-- Project Link:
+- Project Link: [https://github.com/bhaven123/fullstack-socialmedia-mern-app](https://github.com/bhaven123/fullstack-socialmedia-mern-app)
 
 ## Acknowledgments
 
