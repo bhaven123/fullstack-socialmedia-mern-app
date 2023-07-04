@@ -1,0 +1,22 @@
+version: '3'
+services:
+  frontend:
+    container_name: fullstack_mern_app_client
+    build:
+      context: ./client
+    ports:
+      - 3000:3000
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    restart: always
+  backend:
+    container_name: fullstack_mern_app_server
+    restart: always
+    build: 
+      context: ./server
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+    ports:
+      - 3001:3001
